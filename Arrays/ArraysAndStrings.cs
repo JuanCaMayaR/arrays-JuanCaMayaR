@@ -5,10 +5,8 @@
         public int CountCharInString(string inputString, char inputChar)
         {
             int result = 0;
-
             //TODO: Escriba aquí el algoritmo para contar
             // las ocurrencias de inputChar en inputString
-
             return result;
         }
 
