@@ -5,3 +5,6 @@ D:\Documents\GitHub\arrays\Arrays\bin\Debug\nunit.framework.xml
 D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
 D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.dll
 D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\MiPc\Documents\GitHub\arrays-JuanCaMayaR\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\MiPc\Documents\GitHub\arrays-JuanCaMayaR\Arrays\obj\Debug\Arrays.dll
+C:\Users\MiPc\Documents\GitHub\arrays-JuanCaMayaR\Arrays\obj\Debug\Arrays.pdb
